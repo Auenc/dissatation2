@@ -29,7 +29,10 @@ public class Main {
 			}while(x == 10 && y == 10);
 	
 	//test1.printTuple(); 
-			
+	//list.add(new Tuple(a, b));
+	//OR
+	//Tuple tuple = new Tuple(a, b) //i, j
+	//list.add(tuple);
 			
 	
 	
